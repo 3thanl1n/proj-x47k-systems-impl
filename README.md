@@ -138,8 +138,6 @@ Run the comprehensive test suite:
 - Thread pool eliminates thread creation overhead
 
 ## Course Context
-
-Developed for **CIT 5950 - Computer Systems Programming** at University of Pennsylvania, demonstrating mastery of:
 - Low-level systems programming in C++
 - Network programming and socket APIs
 - Multithreading and synchronization primitives
