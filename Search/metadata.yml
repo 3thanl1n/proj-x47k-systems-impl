@@ -1,0 +1,14 @@
+---
+:id: 329720646
+:submitters:
+- :name: Zihan Zhang
+  :email: zz86389@seas.upenn.edu
+- :name: Ethan Lin
+  :email: ethanlin@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-04-29 21:36:27.949047000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-04-29 14:36:27.949047000 Z
+:status: processed
+:score: 500.0
